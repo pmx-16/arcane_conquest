@@ -1,0 +1,6 @@
+tcod==18.1.0
+pygame==2.6.1
+pandas==2.2.3
+seaborn==0.13.2
+matplotlib==3.10.3
+numpy==2.2.5
